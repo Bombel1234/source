@@ -1,6 +1,6 @@
 {
-  "city":['New York', 'Los Anderes', 'Paris', 'Berlin', 'Warszawa', 'Praga', 'Wieden'],
-  "name":['Bartek', 'Milosz', 'Agata', 'Anna', 'Boris'],
+  "city":["New York", "Los Anderes", "Paris", "Berlin", "Warszawa", "Praga", "Wieden"],
+  "name":["Bartek", "Milosz", "Agata", "Anna", "Boris"],
   "dict":{
     "url":"GitHub",
     "User":"Bombel1234"
