@@ -1,5 +1,14 @@
 {
-  "city":["New York", "Los Anderes", "Paris", "Berlin", "Warszawa", "Praga", "Wieden"],
+  "city1":["New York", "Los Anderes", "Paris", "Berlin", "Warszawa", "Praga", "Wieden"],
+  "city":[
+    {"New York":""},
+    {"Los Anders":""},
+    {"Paris":""},
+    {"Berlin":""},
+    {"Warszawa":""},
+    {"Praga":""},
+    {"Wieden":""}
+  ]
   "name":["Bartek", "Milosz", "Agata", "Anna", "Boris"],
   "dict":{
     "url":"GitHub",
