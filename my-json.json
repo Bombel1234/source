@@ -1,5 +1,4 @@
 {
-  "city1":["New York", "Los Anderes", "Paris", "Berlin", "Warszawa", "Praga", "Wieden"],
   "city":[
     {"New York":"https://github.com/Bombel1234/source/blob/main/Shopping/city/new_york.jpg?raw=true"},
     {"Los Anders":"https://github.com/Bombel1234/source/blob/main/Shopping/city/los-angeles.jpg?raw=true"},
